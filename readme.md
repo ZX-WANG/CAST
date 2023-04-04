@@ -21,7 +21,7 @@ pip install -r requirements.txt
     
 ```bash
 touch .env
-echo [PUT YOUR KEY HERE] > .env
+echo OPENAI_API_KEY=[PUT YOUR KEY HERE] > .env
 ```
 ## Usage
 
